@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\bin\Debug\net6.0\GradingTheStudents.exe
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\bin\Debug\net6.0\GradingTheStudents.deps.json
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\bin\Debug\net6.0\GradingTheStudents.runtimeconfig.json
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\bin\Debug\net6.0\GradingTheStudents.dll
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\bin\Debug\net6.0\GradingTheStudents.pdb
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.dll
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\refint\GradingTheStudents.dll
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.pdb
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\GradingTheStudents.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\GradingTheStudents\GradingTheStudents\obj\Debug\net6.0\ref\GradingTheStudents.dll
